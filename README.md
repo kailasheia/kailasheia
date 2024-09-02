@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am Kailash Chouhan (FullStack Developer) with 10+ years of expereince working in IT Industry.
+
 <!--
 **kailasheia/kailasheia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
