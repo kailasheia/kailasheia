@@ -1,11 +1,8 @@
 ## Hi there 👋
 
-I am Kailash Chouhan (FullStack Developer) with 10+ years of expereince working in IT Industry.
+I am **Kailash Chouhan** (FullStack Developer) with **10+ years** of expereince working in IT Industry.
 
-<!--
-**kailasheia/kailasheia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I'm a passionate software developer with a focus on Flutter and mobile app development. With a strong foundation in Python and Node.js, I love crafting efficient, scalable, and user-friendly applications. Whether it's creating stunning UIs in Flutter or building robust backends with Node.js, I enjoy bringing ideas to life through code.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -15,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
