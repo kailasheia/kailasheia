@@ -23,6 +23,48 @@ I'm a passionate software developer with a focus on Flutter and mobile app devel
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
+### Core Flutter Skills:
+1. **Flutter Framework**: Expertise in building cross-platform mobile applications using Flutter.
+2. **Dart Programming**: Proficiency in Dart, the language used by Flutter.
+3. **State Management**: Familiarity with state management solutions like Bloc, Provider, Riverpod, or GetX.
+4. **Widget Composition**: Experience in composing UI with Flutter's built-in and custom widgets.
+5. **Flutter Architecture Patterns**: Understanding of MVVM, Clean Architecture, or other architecture patterns in Flutter.
+6. **Animations**: Ability to create complex animations using Flutter’s animation libraries.
+7. **Asynchronous Programming**: Use of Futures, Streams, and async/await for handling asynchronous tasks.
+8. **Forms and Validation**: Building and validating forms, handling user inputs.
+9. **Navigation and Routing**: Knowledge of navigation techniques, including named routes, push and pop, and nested navigation.
+10. **Responsive Design**: Creating adaptive layouts for different screen sizes and orientations.
+11. **Custom Paint and Drawing**: Experience with custom painting and drawing using Flutter’s canvas.
+
+### Advanced Flutter Skills:
+1. **Firebase Integration**: Using Firebase services such as Firestore, Auth, Cloud Messaging, and Analytics.
+2. **RESTful APIs and HTTP**: Integration of RESTful APIs, JSON serialization, and handling HTTP requests with libraries like `http` or `Dio`.
+3. **Database Integration**: Working with local databases like SQLite, Hive, or Moor.
+4. **Native Integration**: Adding native functionality using platform channels (integrating with iOS/Android code).
+5. **Testing**: Writing unit tests, widget tests, and integration tests in Flutter.
+6. **CI/CD**: Setting up Continuous Integration and Continuous Deployment pipelines for Flutter apps (e.g., Bitbucket Pipelines, GitHub Actions).
+7. **Performance Optimization**: Techniques for optimizing Flutter app performance (e.g., lazy loading, caching, avoiding unnecessary rebuilds).
+8. **Plugins and Packages**: Experience using and developing Flutter packages/plugins.
+9. **App Localization**: Implementing multi-language support and localization.
+10. **Security Practices**: Implementing secure coding practices, such as encrypting sensitive data and securing API calls.
+
+### Soft and Project-Related Skills:
+1. **Cross-Platform Development**: Demonstrating the ability to build apps for both Android and iOS with a single codebase.
+2. **Version Control**: Proficiency with Git and collaboration using version control systems (e.g., GitHub, Bitbucket).
+3. **Agile Methodologies**: Experience working in Agile or Scrum environments.
+4. **UI/UX Design Collaboration**: Working with design teams to implement UI/UX from Figma, Sketch, or Adobe XD.
+
+### Additional Skills:
+- **Push Notifications**: Implementing push notifications using Firebase Cloud Messaging (FCM) or other services.
+- **App Store Deployment**: Knowledge of the processes involved in publishing apps to the Google Play Store and Apple App Store.
+- **App Analytics**: Integrating analytics services like Google Analytics or Firebase Analytics.
+- **Third-Party Integrations**: Implementing third-party SDKs (e.g., payment gateways, social media integrations).
+
+### Relevant Soft Skills:
+- **Problem-Solving**: Highlighting your ability to solve complex problems in mobile app development.
+- **Collaboration and Communication**: Working effectively with cross-functional teams, including designers, backend developers, and project managers.
+- **Adaptability**: Being able to quickly learn new technologies and adapt to changing project requirements.
+
 ##  Industries Experience
 
 💻 Real Estate
